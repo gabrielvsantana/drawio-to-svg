@@ -1,12 +1,14 @@
-# Draw.io diagrams to SVG
+# 🎨 Draw.io to SVG
 
-## Requirements
+Convert multiple Draw.io diagrams to SVG in an easy way.
+
+## 📋 Requirements
 
 - Node.js
 - Draw.io
 - Inkscape
 
-## Guide
+## 📖 Guide
 
 1. Create two folders for input and output
 ```sh
